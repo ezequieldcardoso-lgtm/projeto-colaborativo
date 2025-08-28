@@ -1,2 +1,3 @@
 # projeto-colaborativo
-colaboradores:
+colaboradores: 
+Ezequiel d cardoso
